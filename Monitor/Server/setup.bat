@@ -1,0 +1,1 @@
+g++ server.cpp -lWS2_32 -lIPHlpApi -lnetapi32 -lGdi32 -o server.exe
